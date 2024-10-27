@@ -1,0 +1,7 @@
+flask
+openai
+python-dotenv
+flask-cors
+flask-jwt-extended
+datetime
+pymongo
