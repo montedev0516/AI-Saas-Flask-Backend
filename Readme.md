@@ -1,4 +1,4 @@
-# env file
+## env file
 
 openai_key = 
 assistant_id = 
