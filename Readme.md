@@ -1,5 +1,7 @@
-## env file
+#  RUIU AI Saas Platform Backend
 
+## env file
+```
 openai_key = 
 assistant_id = 
 
@@ -8,3 +10,4 @@ stability_api =
 
 pictory_client_id = 
 pictory_client_secret = 
+```
